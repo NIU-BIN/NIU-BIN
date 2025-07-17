@@ -26,11 +26,10 @@
 <!-- 背景图 -->
 <br />
 <br />
-<img align="right" alt="GIF" src="./assets/bg.png" width="400"/>
-
 <!-- 关于我 -->
-<h2 height="200px" align="center">🎉 About Me</h2>
+<h2 height="200px" align="left">🎉 About Me</h2>
 <br />
+<img align="right" src="./avatar.jpg" width="160" />
 
 - 👨‍💻 I'm passionate about coding and have been developing my skill ~
 - 👻 I love to share, and currently share technical articles at juejin
